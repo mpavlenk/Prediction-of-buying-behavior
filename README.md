@@ -4,4 +4,4 @@ R file
 [Report link](https://mpavlenk.github.io/Prediction-of-buying-behavior/Prediction of buying behavior.html)
 
 Screenshots:
-<img src="https://mpavlenk.github.io/Ensemble-Prediction-of-Medical-Costs/images1/age&charges.JPG" alt="smoking status">
+<img src="https://mpavlenk.github.io/Ensemble-Prediction-of-Medical-Costs/images1/age&charges.JPG" alt="smoking= status">
