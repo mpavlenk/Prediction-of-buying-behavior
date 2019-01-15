@@ -3,4 +3,13 @@ Analyzing data for potential insight to inform a “free-to-fee” strategy. Loo
 R file
 
 Screenshots:
-<img src="https://mpavlenk.github.io/Ensemble-Prediction-of-Medical-Costs/images1/age&charges.JPG" alt="smoking= status">
+<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image1.JPG">
+
+<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image2.JPG">
+
+<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image3.JPG">
+
+<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image4.JPG">
+
+<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image5.JPG">
+
