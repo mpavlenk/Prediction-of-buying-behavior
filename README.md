@@ -10,7 +10,7 @@ Screenshots:
 
 <img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image3.JPG">
 
-<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image4.JPG">
+<img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image4.gif">
 
 <img src="https://mpavlenk.github.io/Prediction-of-buying-behavior/img/image5.JPG">
 
